@@ -1,0 +1,2 @@
+# sfam-insight
+training project
